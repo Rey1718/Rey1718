@@ -11,7 +11,7 @@
 
 
 <!--- snake -->
-
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--h2 without bottom border-->
