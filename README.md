@@ -23,7 +23,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, PostgresDB**
+- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, PostgresDB, Vercel, Typescript**
 
 - 🌱 I’m currently learning **Neural networks.**
 
